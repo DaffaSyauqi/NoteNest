@@ -5,8 +5,8 @@ NoteNest, a simple web app to help save your project, to do list, ideas, or what
 ---
 
 ## 🚀 Key Features
-- 🗒️ Create, edit, and delete notes  
-- 📁 Organize notes into categories/folders  
+- 🗒️ Create, edit notes  
+- 📁 Organize notes
 - 👤 User authentication & login system  
 - 🎨 Simple UI using **Tailwind**  
 - ⚡ High performance with **Vue 3**
