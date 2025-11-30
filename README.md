@@ -18,7 +18,7 @@ NoteNest, a simple web app to help save your project, to do list, ideas, or what
 - [Vue 3](https://vuejs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Prisma](https://www.prisma.io/)
-- [MySqk](https://www.mysql.com/)
+- [MySql](https://www.mysql.com/)
 
 ---
 
