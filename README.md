@@ -1,4 +1,4 @@
-# 📚 NoteNest — Note Web App 
+# 📝 NoteNest — Note Web App 
 
 NoteNest, a simple web app to help save your project, to do list, ideas, or whatever
 
