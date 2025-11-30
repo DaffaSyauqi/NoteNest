@@ -1,81 +1,27 @@
-<<<<<<< HEAD
-# NoteNest
+# 📚 NoteNest — Note Web App 
 
-A simple note website
-=======
-# Nuxt Minimal Starter
+NoteNest, a simple web app to help save your project, to do list, ideas, or whatever
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+---
 
-## Setup
+## 🚀 Key Features
+- 🗒️ Create, edit, and delete notes  
+- 📁 Organize notes into categories/folders  
+- 👤 User authentication & login system  
+- 🎨 Simple UI using **Tailwind**  
+- ⚡ High performance with **Vue 3**
 
-Make sure to install dependencies:
+---
 
-```bash
-# npm
-npm install
+## 🧩 Technologies Used
+- [Nuxt 3](https://nuxt.com)
+- [Vue 3](https://vuejs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [Prisma](https://www.prisma.io/)
+- [MySqk](https://www.mysql.com/)
 
-# pnpm
-pnpm install
+---
 
-# yarn
-yarn install
+### 🧑‍💻 Contributor
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
->>>>>>> 68eadfc (docs(readme): resolve conflit readme)
+@DaffaSyauqi — Main developer of NoteNest
