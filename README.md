@@ -21,7 +21,7 @@ NoteNest, a simple web app to help save your project, to do list, ideas, or what
 
 ---
 
-## Intalasion
+## installation
 ### 1. Clone Repository
 ```bash
 https://github.com/DaffaSyauqi/NoteNest.git
