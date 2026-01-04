@@ -20,3 +20,21 @@ NoteNest, a simple web app to help save your project, to do list, ideas, or what
 - [MySql](https://www.mysql.com/)
 
 ---
+
+## Intalasion
+### 1. Clone Repository
+```bash
+https://github.com/DaffaSyauqi/NoteNest.git
+cd luxepos
+```
+
+### 2. Instal Dependency
+```bash
+npm install
+```
+
+### 3. Running web server
+```bash
+npm run dev
+```
+---
